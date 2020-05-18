@@ -4,3 +4,4 @@ This file shall capture my progress with hello_world activity of the GitHub guid
 So far I have understood the following concepts,
   >Creating a repository.
   >Making commits.
+Commit some changes.
